@@ -1,0 +1,17 @@
+{
+  "name": "parcel_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.4.0",
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "axois": "^0.0.1-security"
+  }
+}
